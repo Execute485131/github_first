@@ -1,4 +1,4 @@
-#Judul Project
+# Judul Project
 Praktek GitHub
-##Deskripsi
+## Deskripsi
 haloo ini README, fungsinya buat ngedeskripsiin sesuatu ok.
